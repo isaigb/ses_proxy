@@ -1,5 +1,5 @@
 # SES Proxy
-The goal of this project was to develop a proxy measure for socioeconomic status using the Census' publicly available American Community Survey (ACS) data. A technical memo is currently in progress and will be linked to from here once it is completed and published online.
+The goal of this project was to develop a proxy measure for socioeconomic status using the Census' publicly available American Community Survey (ACS) data. The proxy is intended for use in higher education research where zip code data are available but financial aid/income data are not. A technical memo is currently in progress and will be linked to from here once it is completed and published online.
 
 Because I currently work primarily with Stata users, the Stata code found here serves as ground truth for what I did for this project and will be the code that will remain with the research team moving forward. There is also an R script that downloads ACS data from the Census API.
 
